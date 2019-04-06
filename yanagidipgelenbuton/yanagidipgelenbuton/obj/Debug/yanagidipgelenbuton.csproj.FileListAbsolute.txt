@@ -1,0 +1,8 @@
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\bin\Debug\yanagidipgelenbuton.exe.config
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\bin\Debug\yanagidipgelenbuton.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\bin\Debug\yanagidipgelenbuton.pdb
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\obj\Debug\yanagidipgelenbuton.Form1.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\obj\Debug\yanagidipgelenbuton.Properties.Resources.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\obj\Debug\yanagidipgelenbuton.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\obj\Debug\yanagidipgelenbuton.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\yanagidipgelenbuton\yanagidipgelenbuton\obj\Debug\yanagidipgelenbuton.pdb

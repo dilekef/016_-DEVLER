@@ -1,0 +1,12 @@
+C:\Users\dilek\Desktop\ödevler\tabana çevirme\tabana çevirme\bin\Debug\tabana çevirme.exe.config
+C:\Users\dilek\Desktop\ödevler\tabana çevirme\tabana çevirme\obj\Debug\tabana_çevirme.Form1.resources
+C:\Users\dilek\Desktop\ödevler\tabana çevirme\tabana çevirme\obj\Debug\tabana_çevirme.Properties.Resources.resources
+C:\Users\dilek\Desktop\ödevler\tabana çevirme\tabana çevirme\obj\Debug\tabana çevirme.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\bin\Debug\tabana çevirme.exe.config
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\obj\Debug\tabana_çevirme.Form1.resources
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\obj\Debug\tabana_çevirme.Properties.Resources.resources
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\obj\Debug\tabana çevirme.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\bin\Debug\tabana çevirme.exe
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\bin\Debug\tabana çevirme.pdb
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\obj\Debug\tabana çevirme.exe
+C:\Users\dilek\Desktop\TR\tabana çevirme\tabana çevirme\obj\Debug\tabana çevirme.pdb

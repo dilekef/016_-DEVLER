@@ -1,0 +1,8 @@
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\bin\Debug\üstü.exe.config
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\bin\Debug\üstü.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\bin\Debug\üstü.pdb
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\obj\Debug\üstü.Form1.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\obj\Debug\üstü.Properties.Resources.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\obj\Debug\üstü.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\obj\Debug\üstü.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\üstü\üstü\obj\Debug\üstü.pdb
