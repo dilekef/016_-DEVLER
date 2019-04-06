@@ -1,0 +1,8 @@
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\bin\Debug\butonkaydırma.exe.config
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\bin\Debug\butonkaydırma.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\bin\Debug\butonkaydırma.pdb
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\obj\Debug\butonkaydırma.Form1.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\obj\Debug\butonkaydırma.Properties.Resources.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\obj\Debug\butonkaydırma.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\obj\Debug\butonkaydırma.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\butonkaydırma\butonkaydırma\obj\Debug\butonkaydırma.pdb

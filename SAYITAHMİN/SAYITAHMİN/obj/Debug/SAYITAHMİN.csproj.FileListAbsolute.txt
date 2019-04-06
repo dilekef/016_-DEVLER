@@ -1,0 +1,9 @@
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\bin\Debug\SAYITAHMİN.exe.config
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\bin\Debug\SAYITAHMİN.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\bin\Debug\SAYITAHMİN.pdb
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\obj\Debug\SAYITAHMİN.csprojResolveAssemblyReference.cache
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\obj\Debug\SAYITAHMİN.Form1.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\obj\Debug\SAYITAHMİN.Properties.Resources.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\obj\Debug\SAYITAHMİN.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\obj\Debug\SAYITAHMİN.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\SAYITAHMİN\SAYITAHMİN\obj\Debug\SAYITAHMİN.pdb

@@ -1,0 +1,8 @@
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\dilek\Desktop\MEHMET HOCA ÖDEV\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
